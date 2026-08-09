@@ -149,4 +149,3 @@ while True:
 				print(f'{CYAN}[{RED}*{CYAN}] Error code: {GREEN}{errorCode}{CYAN}\n{CYAN}[{RED}*{CYAN}] Error message: {GREEN}{errorMessage}{CYAN}')
 		except:
 			print(f'{CYAN}[{RED}-{CYAN}] Пиши вверно! или ты лох')
-			1
